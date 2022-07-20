@@ -1,0 +1,39 @@
+#wrapper {
+    font-family: Verdana !important;
+    background-color: #03aef4b5;
+    height: 750px;
+}
+#wrapper1 {
+    font-family: Verdana !important;
+    /* background-color: #03aef4b5; */
+    height: 750px;
+}
+table, th, td {
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+  }
+  input {
+    -webkit-user-select: text !important;
+    /* Chrome, Opera, Safari */
+    -moz-user-select: text !important;
+    /* Firefox 2+ */
+    -ms-user-select: text !important;
+    /* IE 10+ */
+    user-select: text !important;
+    /* Standard syntax */
+}
+.border_line {
+    border: 1px solid #546e7a;
+}
+
+#CountedClicks {
+    height: 10px;
+    width: 10px;
+    color: red;
+}
+
+#main_table {
+    width: 100% !important;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
